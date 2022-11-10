@@ -7,4 +7,4 @@ OUTPUT
 ![Screenshot (261)](https://user-images.githubusercontent.com/73091532/200149196-c1bf0c98-6ec9-4ded-8d28-6ea5690080bd.png)
 ![Screenshot (262)](https://user-images.githubusercontent.com/73091532/200149192-78b5a6f4-269d-4184-b297-3de90712a664.png)
 
--Cholan(Prathvi N)
+-S VISHVAJITH REDDY
